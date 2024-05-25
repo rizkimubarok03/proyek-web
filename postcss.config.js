@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/gatsby-proyek-utswebdevelopment",
+  pathPrefix: "/gatsby-utsproyek",
   plugins: {
     tailwindcss: {},
     autoprefixer: {},
