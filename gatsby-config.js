@@ -9,17 +9,18 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
+    title: `Supplier Pasir Dan Batu Jabodetabek dan luar pulau`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    author: `rizki mubarok`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    keyword: `digital marketing, gatsbyjs, seo`,
   },
   plugins: [
-    `gatsby-plugin-image`,
+    "gatsby-plugin-postcss",
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `images`,
+        name: `images,src`,
         path: `${__dirname}/src/images`,
       },
     },
