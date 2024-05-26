@@ -204,37 +204,39 @@ const ProdukPage = () => {
           style={{ height: "600px", width: "600px" }}
         />
         <p className="mt-4 w-1/2 mx-auto text-justify"></p>
-        Jual Batu Split Kualitas terbaik mulai dari ukuran 1-2Cm dan 2-3 cm. 
-        Batu split adalah batu yang di gunakan sebagai campuran semen dan pasir 
-        untuk membuat adukan coran. Mulai dari ceker ayam, dak, jalan cor dan kolom.
-        Khusus untuk anda yang berada di Jabodetabek (Jakarta, Bogor, Depok, Tangerang 
-        dan Bekasi), bisa melakukan pemesanan batu split berkualitas tinggi melalui website 
-        SumberPasir.com ini.
-        Untuk proses membangun suatu kontruksi cor, kita tidak luput dari yang namanya batu split. 
-        bagai mana tiang – tiang mau kuat jika tidak menggunakan batu ini, selain dari pasir, split 
-        juga salah 1 hal penting dalam proses pembangunan, maka dari itu pilih lah batu dengan mutu 
-        yang bagus, kualitas batu yang keras akan menambah nilai kuat nya suatu bangunan
-        Cara perbandingan adukan coran secara standar, perbandingannya cukup 1 scop semen, di tambah 2 
-        scop pasir dan 3 scop split,  namun jika anda ingin menambahkan sedikit semen agar hasil lebih 
-        kuat maka lebih bagus.
-        Untuk harga dari satuan kubikasi split sendiri berkisar Rp.250.000 – 350.000/M3 sesuai daerah 
-        masing -masing.Mungkin ada yang bertana, kenapa harus order melalui kami, karena kami menjual 
-        bahan – bahan berkualitas dengan isi yang sesuai, apa gunanya barang berkualitas tapi isi yang 
-        di kirim tidak sesuai dengan yang anda pean, ditambah lagi sudah mutunya jelek, dan isinya juga 
-        sdikit.Dari sekian banyak pembangunan, masih juga banyak orang yang belum mengerti betapa pentingnya 
-        menggunakan batu split berkualitas.
-        Mengenal Mutu Batu Split yang bagus
-        Pertama batu yang bagus selain dari pada keras, batu juga memiliki ciri khas warna yang hitam, 
-        batu tidak tidak rapuh, batu yang rapuh akan hancur walaupun kita injak menggunakan sepatu,
-        Tentu kita tidak akan berani menggunakan campuran untuk bangunan kita sementara batunya jauh di 
-        bawah standar.
-        Batu split sering juga di sebut dengan batu koral atau krikil, namun pada dasarnya batu ini 
-        sengaja di olah langsung menggunakan gilingan khusus agar menjadi potongan – potongan yang sesuai 
-        standar, yaitu 1-2 cm, 2-3cm, dam 3-5cm.
-        Namun untuk split yang berukuran 3-5 cm ini peruntukannya beda lagi, yaitu untuk membuat jalan cor 
-        dan rel kereta saja, karena jarang sekali orang yang menggunakan nya untuk campuran bahan bangunan 
-        mereka
-        
+        Jual Batu Split Kualitas terbaik mulai dari ukuran 1-2Cm dan 2-3 cm.
+        Batu split adalah batu yang di gunakan sebagai campuran semen dan pasir
+        untuk membuat adukan coran. Mulai dari ceker ayam, dak, jalan cor dan
+        kolom. Khusus untuk anda yang berada di Jabodetabek (Jakarta, Bogor,
+        Depok, Tangerang dan Bekasi), bisa melakukan pemesanan batu split
+        berkualitas tinggi melalui website SumberPasir.com ini. Untuk proses
+        membangun suatu kontruksi cor, kita tidak luput dari yang namanya batu
+        split. bagai mana tiang – tiang mau kuat jika tidak menggunakan batu
+        ini, selain dari pasir, split juga salah 1 hal penting dalam proses
+        pembangunan, maka dari itu pilih lah batu dengan mutu yang bagus,
+        kualitas batu yang keras akan menambah nilai kuat nya suatu bangunan
+        Cara perbandingan adukan coran secara standar, perbandingannya cukup 1
+        scop semen, di tambah 2 scop pasir dan 3 scop split, namun jika anda
+        ingin menambahkan sedikit semen agar hasil lebih kuat maka lebih bagus.
+        Untuk harga dari satuan kubikasi split sendiri berkisar Rp.250.000 –
+        350.000/M3 sesuai daerah masing -masing.Mungkin ada yang bertana, kenapa
+        harus order melalui kami, karena kami menjual bahan – bahan berkualitas
+        dengan isi yang sesuai, apa gunanya barang berkualitas tapi isi yang di
+        kirim tidak sesuai dengan yang anda pean, ditambah lagi sudah mutunya
+        jelek, dan isinya juga sdikit.Dari sekian banyak pembangunan, masih juga
+        banyak orang yang belum mengerti betapa pentingnya menggunakan batu
+        split berkualitas. Mengenal Mutu Batu Split yang bagus Pertama batu yang
+        bagus selain dari pada keras, batu juga memiliki ciri khas warna yang
+        hitam, batu tidak tidak rapuh, batu yang rapuh akan hancur walaupun kita
+        injak menggunakan sepatu, Tentu kita tidak akan berani menggunakan
+        campuran untuk bangunan kita sementara batunya jauh di bawah standar.
+        Batu split sering juga di sebut dengan batu koral atau krikil, namun
+        pada dasarnya batu ini sengaja di olah langsung menggunakan gilingan
+        khusus agar menjadi potongan – potongan yang sesuai standar, yaitu 1-2
+        cm, 2-3cm, dam 3-5cm. Namun untuk split yang berukuran 3-5 cm ini
+        peruntukannya beda lagi, yaitu untuk membuat jalan cor dan rel kereta
+        saja, karena jarang sekali orang yang menggunakan nya untuk campuran
+        bahan bangunan mereka
       </div>
     </Layout>
   )
